@@ -1,0 +1,45 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(98, 139, 173, 0.217);
+}
+
+h1{
+    color: blue;
+}
+
+.primero{
+    position: relative; 
+    width: 100%;
+
+}
+
+.General{
+    position: relative; 
+    width: 50%; 
+    height: 100px;
+}
+
+span{
+    color: cadetblue;
+}
+
+.img{
+    height: 100px; 
+    width: 50%; 
+    position: absolute; 
+    top: 1; 
+    left: 50%;
+}
+
+.segundo{
+    margin-top: 320px;
+}
+
+.habilidades{
+    color: chocolate;
+}
+
+.li{
+    color: peru;
+    font-size: 18px;
+}
